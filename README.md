@@ -14,6 +14,7 @@ My research interest includes **Multi-Modal Generative AI, Multi-Modal Language 
 - Personal Pages: https://david-pigeon.github.io (updated recently🔥)
 - Linkedin: https: //www.linkedin.com/in/changhao-pan-4032b8317
 - Google Scholar: https://scholar.google.com/citations?user=lAH4cq8AAAAJ
+- Notebook: https://david-pigeon.github.io/notebook/
 
 ### 💻 Research Papers and Projects
 

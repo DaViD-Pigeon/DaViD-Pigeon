@@ -41,3 +41,8 @@ My research interest includes **Multi-Modal Generative AI, Multi-Modal Language 
 
 - Leading Scholarship of Chu Kozhen Honors College (2022 & 2023).
 
+
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=DaViD-Pigeon&show_icons=true&include_all_commits=true&hide_border=true" alt="DaViD-Pigeon' github stats" /> | <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DaViD-Pigeon&hide_border=true" /> |
+| ------------- | ------------- |
+|  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaViD-Pigeon&layout=compact&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=DaViD-Pigeon&layout=compact&custom_title=Week%20Coding%20Time&hide_border=true" /> |
+

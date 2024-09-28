@@ -20,15 +20,17 @@ My research interest includes **Multi-Modal Generative AI, Multi-Modal Language 
 
 #### Singing Voice Synthesis
 
-- [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://github.com/GTSinger/GTSinger) Yu Zhang, **Changhao Pan**, Wenxiang Guo, Ruiqi Li, Zhiyuan Zhu, Jialei Wang, Wenhao Xu, Jingyu Lu, Zhiqing Hong, Chuxin Wang, Lichao Zhang, Jinzheng He, Ziyue Jiang, Yuxin Chen, Chen Yang, Jiecheng Zhou, Xinyu Cheng, Zhou Zhao. **Arxiv, 2024**
+- [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://github.com/GTSinger/GTSinger) Yu Zhang, **Changhao Pan**, Wenxiang Guo, Ruiqi Li, Zhiyuan Zhu, Jialei Wang, Wenhao Xu, Jingyu Lu, Zhiqing Hong, Chuxin Wang, Lichao Zhang, Jinzheng He, Ziyue Jiang, Yuxin Chen, Chen Yang, Jiecheng Zhou, Xinyu Cheng, Zhou Zhao. **NeurIPS, 2024(Spotlight)**
 
-- [High-quality Singing Voice Synthesis Based on Generative Model]() **Changhao Pan**, Yuxin Chen, Yuyang Wu, advised by Prof. Zhou Zhao. **State-level Student Research Training Program(SRTP)**
+- [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://arxiv.org/abs/2409.15977v2), Yu Zhang, Ziyue Jiang, Ruiqi Li, **Changhao Pan**, Jinzheng He, Rongjie Huang, Chuxin Wang, Zhou Zhao.
 
 #### Data Visualization and Data Transformation
 
 - [Interactive Table Synthesis with Natural Language](https://ieeexplore.ieee.org/document/10304286) Yanwei Huang, Yunfan Zhou, Ran Chen, **Changhao Pan**, Xinhuan Shu, Di Weng, Yingcai Wu. **IEEE TVCG, 2023**
 
 ### 🏆 Selected Awards
+
+- **Outstanding Undergrudates** of CCF (2024);
 
 - **National Scholarship** for two consecutive years (2022 & 2023);
 

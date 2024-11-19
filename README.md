@@ -19,7 +19,7 @@ My research interest includes **Multi-Modal Generative AI, Multi-Modal Language 
 
 #### Singing Voice Synthesis
 
-- [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://github.com/GTSinger/GTSinger) Yu Zhang, **Changhao Pan**, Wenxiang Guo, Ruiqi Li, Zhiyuan Zhu, Jialei Wang, Wenhao Xu, Jingyu Lu, Zhiqing Hong, Chuxin Wang, Lichao Zhang, Jinzheng He, Ziyue Jiang, Yuxin Chen, Chen Yang, Jiecheng Zhou, Xinyu Cheng, Zhou Zhao. **NeurIPS, 2024(Spotlight)**
+- [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://github.com/GTSinger/GTSinger) Yu Zhang*, **Changhao Pan***, Wenxiang Guo*, Ruiqi Li, Zhiyuan Zhu, Jialei Wang, Wenhao Xu, Jingyu Lu, Zhiqing Hong, Chuxin Wang, Lichao Zhang, Jinzheng He, Ziyue Jiang, Yuxin Chen, Chen Yang, Jiecheng Zhou, Xinyu Cheng, Zhou Zhao. **NeurIPS, 2024(Spotlight)**
 
 - [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://arxiv.org/abs/2409.15977v2), Yu Zhang, Ziyue Jiang, Ruiqi Li, **Changhao Pan**, Jinzheng He, Rongjie Huang, Chuxin Wang, Zhou Zhao.
 

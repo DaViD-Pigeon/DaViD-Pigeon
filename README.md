@@ -32,10 +32,10 @@ My research interest includes **Multi-Modal Generative AI, Multi-Modal Language 
 - **Chu Kochen Scholarship(as undergraduate)**, 2024
   - Highest scholarship at Zhejiang University
 
+- **National Scholarship** for three consecutive years (2022 & 2023 & 2024);
+
 - **Outstanding Undergrudates** of CCF (2024);
 
-- **National Scholarship** for three consecutive years (2022 & 2023 & 2024);
-- 
 - **BaoGang Elite Scholarship** (2023).
 
 

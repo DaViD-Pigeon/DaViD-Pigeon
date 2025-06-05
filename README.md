@@ -2,7 +2,7 @@
 
 Hi, I'm **Changhao Pan (潘昶皓)**! 
 
-I am a master student at[College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Computer Science.
+I am a master student at [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Computer Science.
 
 Currently I work on the Audio Research Team at Zhejiang University, under the supervision of [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). Previously I graduated from [Turing Class](http://www.en.cs.zju.edu.cn/turing_honors_class/list.htm), a program established by [Chu Kochen Honors College](ckc.zju.edu.cn), with a bachelor's degree in Artificial Intelligence.
 

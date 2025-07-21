@@ -1,12 +1,10 @@
 ## Hi there 👋
 
-Hi, I'm **Changhao Pan (潘昶皓)**! 
-
 I am a master student at [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/), [Zhejiang University](https://www.zju.edu.cn/english/), majoring in Computer Science.
 
 Currently I work on the Audio Research Team at Zhejiang University, under the supervision of [Prof. Zhou Zhao](https://person.zju.edu.cn/zhaozhou). Previously I graduated from [Turing Class](http://www.en.cs.zju.edu.cn/turing_honors_class/list.htm), a program established by [Chu Kochen Honors College](ckc.zju.edu.cn), with a bachelor's degree in Artificial Intelligence.
 
-My research interests primarily focus on **Multi-Modal Generative AI**, specifically in **Spatial Audio, Music, Singing, and Speech**. I have published papers at top international AI conference, including NeurIPS, ACL, AAAI and EMNLP. Currently, I am working on **Spatial Audio Generation and Immersive Audio Synthesis**.
+My research interests primarily focus on **Multi-Modal Generative AI**, specifically in **Spatial Audio, Music, Singing, and Speech**. I have published papers at top international AI conference, including NeurIPS, ACL, AAAI and ACM-MM. Currently, I am working on **Spatial Audio Generation and Immersive Audio Synthesis**.
 
 **I am actively looking for academic collaboration and research intern, feel free to contact me via email at [panch@zju.edu.cn](panch@zju.edu.cn).**
 
@@ -22,19 +20,21 @@ My research interests primarily focus on **Multi-Modal Generative AI**, specific
 
 #### 🎙️ Singing Voice Synthesis
 
-- [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://papers.nips.cc/paper_files/paper/2024/hash/023d2c1a17cf35b11a0cbb43a0677c91-Abstract-Datasets_and_Benchmarks_Track.html) Yu Zhang*, **Changhao Pan***, Wenxiang Guo*, et al. **NeurIPS, 2024(Spotlight)**
+- [GTSinger: A Global Multi-Technique Singing Corpus with Realistic Music Scores for All Singing Tasks](https://papers.nips.cc/paper_files/paper/2024/hash/023d2c1a17cf35b11a0cbb43a0677c91-Abstract-Datasets_and_Benchmarks_Track.html) Yu Zhang*, **Changhao Pan***, Wenxiang Guo*, et al. **NeurIPS, 2024(Spotlight)** [![](https://img.shields.io/github/stars/GTSinger/GTSinger?style=social&label=Project+Stars)](https://github.com/GTSinger/GTSinger)
 
-- [TCSinger 2: Customizable Multilingual Zero-shot Singing Voice Synthesis](https://arxiv.org/abs/2505.14910), Yu Zhang*, Wenxiang Guo, **Changhao Pan***, et al. **ACL, 2025(Findings)** 
+- [TCSinger 2: Customizable Multilingual Zero-shot Singing Voice Synthesis](https://arxiv.org/abs/2505.14910), Yu Zhang*, Wenxiang Guo, **Changhao Pan***, et al. **ACL, 2025(Findings)** [![](https://img.shields.io/github/stars/AaronZ345/TCSinger2?style=social&label=TCSinger2+Stars)](https://github.com/AaronZ345/TCSinger2) 
 
-- [STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation](), Wenxiang Guo*, Yu Zhang*, **Changhao Pan***, et al. **ACL, 2025(Findings)** 
+- [STARS: A Unified Framework for Singing Transcription, Alignment, and Refined Style Annotation](), Wenxiang Guo*, Yu Zhang*, **Changhao Pan***, et al. **ACL, 2025(Findings)** [![](https://img.shields.io/github/stars/gwx314/STARS?style=social&label=STARS+Stars)](https://github.com/gwx314/STARS) 
 
-- [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](https://ojs.aaai.org/index.php/AAAI/article/view/34571), Wenxiang Guo, Yu Zhang, **Changhao Pan**, et al. **AAAI 2025**
+- [TechSinger: Technique Controllable Multilingual Singing Voice Synthesis via Flow Matching](https://ojs.aaai.org/index.php/AAAI/article/view/34571), Wenxiang Guo, Yu Zhang, **Changhao Pan**, et al. **AAAI 2025** [![](https://img.shields.io/github/stars/gwx314/TechSinger?style=social&label=TechSinger+Stars)](https://github.com/gwx314/TechSinger)
 
-- [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://aclanthology.org/2024.emnlp-main.117/), Yu Zhang, Ziyue Jiang, Ruiqi Li, **Changhao Pan**, et al. **EMNLP, 2024**
+- [TCSinger: Zero-Shot Singing Voice Synthesis with Style Transfer and Multi-Level Style Control](https://aclanthology.org/2024.emnlp-main.117/), Yu Zhang, Ziyue Jiang, Ruiqi Li, **Changhao Pan**, et al. **EMNLP, 2024** [![](https://img.shields.io/github/stars/AaronZ345/TCSinger?style=social&label=TCSinger+Stars)](https://github.com/AaronZ345/TCSinger)
 
 #### 👂 Spatial Audio Generation
 
--  [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630), Yu Zhang*, Wenxiang Guo*, **Changhao Pan***, et al.
+-  [ISDrama: Immersive Spatial Drama Generation through Multimodal Prompting](https://arxiv.org/abs/2504.20630), Yu Zhang*, Wenxiang Guo*, **Changhao Pan***, et al. **ACM-MM 2025** [![](https://img.shields.io/github/stars/AaronZ345/ISDrama?style=social&label=Project+Stars)](https://github.com/AaronZ345/ISDrama)
+
+- [A Multimodal Evaluation Framework for Spatial Audio Playback Systems: From Localization to Listener Preference](), **Changhao Pan**#, Wenxiang Guo, Yu Zhang, et al. **ACM-MM 2025**.
 
 #### 🎼 Music Generation
 

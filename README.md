@@ -6,7 +6,7 @@ Currently I work on the Audio Research Team at Zhejiang University, under the su
 
 My research interests primarily focus on **Multi-Modal Generative AI**, specifically in **Spatial Audio, Music, Singing, and Speech**. I have published papers at top international AI conference, including NeurIPS, ACL, AAAI and ACM-MM. Currently, I am working on **Spatial Audio Generation and Immersive Audio Synthesis**.
 
-**I am actively looking for academic collaboration and research intern, feel free to contact me via email at [panch@zju.edu.cn](panch@zju.edu.cn).**
+**I am actively looking for academic collaboration, feel free to contact me via email at [panch@zju.edu.cn](panch@zju.edu.cn).**
 
 ### 📎 Homepages
 - Personal Pages: https://david-pigeon.github.io (updated recently🔥)
